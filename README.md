@@ -6,9 +6,9 @@ It's main objective is to solve customer's queries as early as possible to save 
 
 >## 📂&nbsp; RELEVANT TECHNOLOGIES
 <!--UL-->
-*Watson Assistant
-*Watson DiscoverY
-*Cloud Function
+* Watson Assistant
+* Watson Discovery
+* Cloud Function
 
 >## 💻&nbsp; GETTING STARTED
 
